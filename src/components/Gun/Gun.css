@@ -1,5 +1,5 @@
 .gun {
-    background-color: #c4c4c4;
+    background-color: #AEE6E6;
     height: 580px;
     width: 350px;
     padding: 15px;
@@ -7,9 +7,6 @@
     justify-self: center;
     clip-path: polygon(15% 0%, 100% 0, 100% 90%, 85% 100%, 0 100%, 0% 10%);
     border: 1px solid rgb(10, 0, 143);
-  }
-  .gun h2{
-      margin: 10px 0;
   }
   .gun p{
       margin: 0;
